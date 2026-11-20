@@ -1,0 +1,1 @@
+ALTER TABLE clean.customers   ADD PRIMARY KEY (customer_id);

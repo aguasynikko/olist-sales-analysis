@@ -1,0 +1,1 @@
+ALTER TABLE clean.orders         ADD FOREIGN KEY (customer_id) REFERENCES clean.customers(customer_id);

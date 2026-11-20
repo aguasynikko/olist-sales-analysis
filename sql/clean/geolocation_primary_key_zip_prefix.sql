@@ -1,0 +1,1 @@
+ALTER TABLE clean.geolocation ADD PRIMARY KEY (zip_prefix);

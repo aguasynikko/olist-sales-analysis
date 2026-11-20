@@ -1,0 +1,1 @@
+ALTER TABLE clean.order_items    ADD FOREIGN KEY (product_id)  REFERENCES clean.products(product_id);

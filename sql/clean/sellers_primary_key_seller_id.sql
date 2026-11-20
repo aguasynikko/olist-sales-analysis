@@ -1,0 +1,1 @@
+ALTER TABLE clean.sellers     ADD PRIMARY KEY (seller_id);
